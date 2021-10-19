@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "40308789643",
+    "firebase_url": "https://oxie-7c1c9-default-rtdb.firebaseio.com",
+    "project_id": "oxie-7c1c9",
+    "storage_bucket": "oxie-7c1c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40308789643:android:10e9d2d605e233123e9f8e",
+        "android_client_info": {
+          "package_name": "com.example.oxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40308789643-6ra5i9ukvgqg76pdcs7jrko5gkkvnk2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsRmHr-X26SLySDOZ2HguXXSFzRXKIivU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40308789643-6ra5i9ukvgqg76pdcs7jrko5gkkvnk2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
